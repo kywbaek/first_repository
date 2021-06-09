@@ -1,7 +1,12 @@
-# first_repository
-This is my first remote repository
+# test_repository
+This is a test remote repository
 
-## first python project
+## python snippet
 ```python
 print("Hello World")
+```
+
+## java snippet
+```java
+System.out.println("Hello World")
 ```
